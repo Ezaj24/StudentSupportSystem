@@ -18,5 +18,6 @@ Show Resolved Tickets: Displays all resolved tickets.
 Technologies Used
 C# (Console Application)
 
-Dictionary, Queue, Stack, HashSet (Data Structures).
+Dictionary, Queue, Stack, HashSet (Data Structures)
+
 
